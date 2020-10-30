@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://berenb:zuowz72s6fGC4YLj@cluster0.ckzsx.mongodb.net/devconnect?retryWrites=true&w=majority",
+    "jwtSecret": "privatetoken"
+}
