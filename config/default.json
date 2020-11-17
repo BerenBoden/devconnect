@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://berenb:zuowz72s6fGC4YLj@cluster0.ckzsx.mongodb.net/devconnect?retryWrites=true&w=majority",
-    "jwtSecret": "privatetoken"
+    "jwtSecret": "privatetoken",
+    "githubClientId": "8e7e55e4ad03bbcb7088",
+    "githubSecret": "679298c6fb45fd727725d5fa302db1b9341a4955"
 }
